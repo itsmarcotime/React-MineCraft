@@ -61,3 +61,10 @@ body {
 .cursor {
   color: white;
 }
+
+.texture-selector {
+  transform: scale(5);
+}
+.texture-selector img.active {
+  border: 2px solid red;
+}
