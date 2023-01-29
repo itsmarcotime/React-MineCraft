@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-MineCraft/static/css/main.71444cf0.css",
+    "main.js": "/React-MineCraft/static/js/main.1ee4e986.js",
+    "static/media/dirt.jpeg": "/React-MineCraft/static/media/dirt.95ac2eab10ee2d127a16.jpeg",
+    "index.html": "/React-MineCraft/index.html",
+    "main.71444cf0.css.map": "/React-MineCraft/static/css/main.71444cf0.css.map",
+    "main.1ee4e986.js.map": "/React-MineCraft/static/js/main.1ee4e986.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71444cf0.css",
+    "static/js/main.1ee4e986.js"
+  ]
+}
