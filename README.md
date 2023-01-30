@@ -13,19 +13,19 @@ https://github.com/danba340
 6. [Questions](#questions)
 
 ## Control-Keys
-"space-bar" : jump
-"W" = move up
-"S" = move down
-"A" = move left
-"D" = move right
-"mouse" = camera movement
-"mouse-click" = cube placement
-"ALT" + "mouse-click" = delete cube
-"1" = Dirt
-"2" = grass
-"3" = glass
-"4" = wood
-"5" = log
+"space-bar" = jump <br>
+"W" = move up <br>
+"S" = move down <br>
+"A" = move left <br>
+"D" = move right <br>
+"mouse" = camera movement <br>
+"mouse-click" = cube placement <br>
+"ALT" + "mouse-click" = delete cube <br>
+"1" = Dirt <br>
+"2" = grass <br>
+"3" = glass <br>
+"4" = wood <br>
+"5" = log <br>
 
 ## Description
 Welcome to Minecraft made with React.js! Start playing this beta version of Minecraft now by usining the link in the "Usage" section. The 0.0 beta version of React Minecraft lets players choose from five different cubes. Dirt, grass, glass, wood, & logs are the five cube textures player is able to use at the moment with more textures soon to be added in later version. All controls for game play can be found above in the read me! Hope you enjoy and please feel free to ask me any question anyone may have. All my contact information can be found below. Have fun!
